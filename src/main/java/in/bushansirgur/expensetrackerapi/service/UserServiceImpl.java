@@ -9,7 +9,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import in.bushansirgur.expensetrackerapi.entity.User;
-import in.bushansirgur.expensetrackerapi.entity.UserModel;
+import in.bushansirgur.expensetrackerapi.dto.UserModel;
 import in.bushansirgur.expensetrackerapi.exceptions.ItemExistsException;
 import in.bushansirgur.expensetrackerapi.exceptions.ResourceNotFoundException;
 import in.bushansirgur.expensetrackerapi.repository.UserRepository;

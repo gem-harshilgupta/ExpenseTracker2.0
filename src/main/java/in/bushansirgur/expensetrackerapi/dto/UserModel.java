@@ -1,4 +1,4 @@
-package in.bushansirgur.expensetrackerapi.entity;
+package in.bushansirgur.expensetrackerapi.dto;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;

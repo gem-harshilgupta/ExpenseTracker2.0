@@ -1,7 +1,7 @@
 package in.bushansirgur.expensetrackerapi.service;
 
 import in.bushansirgur.expensetrackerapi.entity.User;
-import in.bushansirgur.expensetrackerapi.entity.UserModel;
+import in.bushansirgur.expensetrackerapi.dto.UserModel;
 
 public interface UserService {
 	

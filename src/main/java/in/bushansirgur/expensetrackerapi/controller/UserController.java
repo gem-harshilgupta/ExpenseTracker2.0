@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import in.bushansirgur.expensetrackerapi.entity.User;
-import in.bushansirgur.expensetrackerapi.entity.UserModel;
+import in.bushansirgur.expensetrackerapi.dto.UserModel;
 import in.bushansirgur.expensetrackerapi.service.UserService;
 
 @RestController

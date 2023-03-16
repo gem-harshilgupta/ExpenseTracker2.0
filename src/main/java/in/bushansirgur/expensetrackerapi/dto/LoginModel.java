@@ -1,4 +1,4 @@
-package in.bushansirgur.expensetrackerapi.entity;
+package in.bushansirgur.expensetrackerapi.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
